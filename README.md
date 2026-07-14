@@ -1,16 +1,24 @@
-# 1st-project-on-python-
-Expense tracker Helps you to track the expense's that you make. 
-xpenses = [] # List to store all expense dictionaries
+# 🐍 My First Python Project
 
-print("Welcome to Expense Tracker 💸")
+A clean, beginner-friendly Python application hosted on GitHub to demonstrate foundational programming logic, console I/O handling, and conditional statements.
 
-while True:
-    print("\n======= MENU =======")
-    print("1️ Add Expense")
-    print("2️ View All Expenses")
-    print("3️ View Total Spending")
-    print("4️ Exit")
-    print("========MENUE=============")
+## 🚀 Project Overview
+This repository serves as a practical milestone for learning the core fundamentals of Python. It demonstrates:
+* Direct user input handling via the console.
+* Implementation of conditional flow control (`if/elif/else`).
+* Clean, readable code structure following basic Python paradigms.
+
+## 🛠️ Built With
+* **Language:** Python 3.x
+* **Version Control:** Git & GitHub
+
+## 🏃 How to Run the Project Locally
+
+If you want to test this code on your machine, follow these simple steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Prabal-hue/1st-project-on-python-.git](https://github.com/Prabal-hue/1st-project-on-python-.git)
 
     choice = input("Enter your choice (1-4): ")
 
